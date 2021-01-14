@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": null,
+            "url": "xmr.pool.minergate.com:45700",
+            "user": "yanceblog123@gmail.com",
+            "pass": "",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
